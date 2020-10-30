@@ -8,11 +8,13 @@ margin: 0;
 padding: 0;
 text-decoration: none;
 list-style: none;
+scroll-behavior: smooth;
 
 }
 
 body {
     background-color: #e4e4e4;
+    
 }
 
 :root {
